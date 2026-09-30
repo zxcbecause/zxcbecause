@@ -1,26 +1,68 @@
-## Hi, I'm Dias 👋
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:ED8B00,100:5382A1&section=header&text=Dias&fontColor=ffffff&fontSize=60&fontAlignY=35&animation=fadeIn" />
+</div>
 
-Java backend developer. I build REST APIs with Spring Boot and care about clean code, tests and readable project structure.
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=900&color=F89820&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Dias+%F0%9F%91%8B;Java+Backend+Developer+%E2%98%95;Spring+Boot+%7C+PostgreSQL+%7C+Docker;I+write+tests+for+my+code+%E2%9C%85" alt="Typing intro" />
+</h1>
 
-### Tech stack
+<h3 align="center">☕ Java Backend Developer | 🌱 Spring Boot | 🧪 Clean code & tests</h3>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<p align="center">
+  <img src="assets/dias-code.svg" alt="Dias.java" width="560" />
+</p>
 
-### Projects
+<details>
+<summary><h3>🕵️‍♂️ Who am I?</h3></summary>
 
-| Project | Description | Stack |
+I'm a Java developer focused on backend development. I like building REST APIs with **Spring Boot**,
+designing clean project structure and covering code with tests (**JUnit 5**, **Mockito**, **MockMvc**).
+
+On my GitHub you can find pet projects where I practice real-world things: layered architecture,
+validation and error handling, working with databases through **JPA/Hibernate**, **Docker** and **CI with GitHub Actions**.
+
+My goal is to grow into a strong backend engineer and to work on products that people actually use.
+
+</details>
+
+<hr>
+
+- 🔭 Working on **pet projects with Spring Boot**
+- 🌱 Currently learning **Spring Security & JWT, Testcontainers, Kafka**
+- ⚡ Fun fact: **every project here has green CI** ✅
+
+<hr>
+
+<h3 align="center">🚀 Languages · Frameworks · Tools 🚀</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,maven,docker,git,github,githubactions,idea,postman,linux&perline=12" alt="Tech stack" />
+</p>
+
+<hr>
+
+<h3 align="center">🛠️ Projects 🛠️</h3>
+
+| Project | What it does | Stack |
 |---|---|---|
-| [task-manager-api](https://github.com/zxcbecause/task-manager-api) | REST API for tasks: filtering, pagination, validation, Swagger docs, Docker | Spring Boot, JPA, PostgreSQL, Docker |
-| [url-shortener](https://github.com/zxcbecause/url-shortener) | Link shortener with custom aliases, expiring links and click stats | Spring Boot, JPA, H2/PostgreSQL |
-| [expense-tracker-cli](https://github.com/zxcbecause/expense-tracker-cli) | Command-line expense tracker with monthly reports | Java 21, no frameworks |
+| 📋 [task-manager-api](https://github.com/zxcbecause/task-manager-api) | REST API for tasks: filters, pagination, validation, Swagger, Docker | Spring Boot · JPA · PostgreSQL · Docker |
+| 🔗 [url-shortener](https://github.com/zxcbecause/url-shortener) | Short links with custom aliases, expiry and click stats | Spring Boot · JPA · H2/PostgreSQL |
+| 💸 [expense-tracker-cli](https://github.com/zxcbecause/expense-tracker-cli) | Command-line expense tracker with monthly reports | Java 21 · no frameworks |
 
-### Currently learning
+<hr>
 
-Spring Security & JWT · Testcontainers · Kafka
+<h3 align="center">📊 GitHub Stats 📊</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zxcbecause&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zxcbecause/zxcbecause/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zxcbecause/zxcbecause/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/zxcbecause/zxcbecause/output/github-snake.svg" />
+  </picture>
+</p>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:5382A1,100:ED8B00&section=footer" />
+</div>
