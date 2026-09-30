@@ -31,6 +31,12 @@ My goal is to grow into a strong backend engineer and to work on products that p
 - 🌱 Currently learning **Spring Security & JWT, Testcontainers, Kafka**
 - ⚡ Fun fact: **every project here has green CI** ✅
 
+<h3 align="left">📬 Let's get in touch:</h3>
+<p align="left">
+  <a href="https://t.me/zxcbecause" target="_blank"><img src="https://img.shields.io/badge/Telegram-@zxcbecause-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://instagram.com/zxcbecause" target="_blank"><img src="https://img.shields.io/badge/Instagram-@zxcbecause-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
 <hr>
 
 <h3 align="center">🚀 Languages · Frameworks · Tools 🚀</h3>
