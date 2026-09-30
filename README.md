@@ -24,5 +24,3 @@ Java backend developer. I build REST APIs with Spring Boot and care about clean 
 ### Currently learning
 
 Spring Security & JWT · Testcontainers · Kafka
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcbecause&show_icons=true&hide_border=true)
