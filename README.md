@@ -60,10 +60,6 @@ description and characteristics with an LLM, picks photos, draws infographics an
 
 `Python` · `aiogram 3` · `Gemini / DeepSeek / OpenAI` · `Pillow · OpenCV · CLIP` · `SQLite` · `WB & Ozon Seller API`
 
-<p align="center">
-  <a href="https://github.com/zxcbecause/ai-marketplace-bot"><img src="https://raw.githubusercontent.com/zxcbecause/ai-marketplace-bot/main/docs/screenshots/3_wb_card.png" alt="Product card created by the bot" width="600" /></a>
-</p>
-
 | Project | What it does | Stack |
 |---|---|---|
 | 🤖 [ai-marketplace-bot](https://github.com/zxcbecause/ai-marketplace-bot) | AI Telegram bot that creates product cards on Wildberries / Ozon | Python · aiogram · LLM · OpenCV |
@@ -75,7 +71,7 @@ description and characteristics with an LLM, picks photos, draws infographics an
 
 <h3 align="center">📊 GitHub Stats 📊</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zxcbecause&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=zxcbecause&theme=tokyonight&hide_border=true&locale=en" alt="GitHub streak" />
 </p>
 
 <p align="center">
