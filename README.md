@@ -71,6 +71,9 @@ description and characteristics with an LLM, picks photos, draws infographics an
 
 <h3 align="center">📊 GitHub Stats 📊</h3>
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zxcbecause&label=Profile%20views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=zxcbecause&theme=tokyonight&hide_border=true&locale=en" alt="GitHub streak" />
 </p>
 
